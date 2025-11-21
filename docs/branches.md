@@ -5,3 +5,4 @@ dev: La branche dev sur elle a intégrer des fichiers
 feature: cette branche sur à ajouter de nouvelle fonctionnalités 
 hotfix: cette branche sert a corriger les fichier
     
+j'ai git pull pour prendre les information de ma branch main
